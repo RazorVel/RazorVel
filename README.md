@@ -4,13 +4,14 @@ I like exploring software and making small tools.
 
 ## Projects
 
-- [Linux log dashboard](https://github.com/RazorVel/network-dashboard) — an educational project for parsing Linux logs and exploring them in a dashboard.
+- [Linux log dashboard](https://github.com/RazorVel/network-dashboard) — configurable log parsing and a dashboard for exploring events.
+- [ChronoCue](https://github.com/RazorVel/ChronoCue) — a Linux desktop companion for reminders, Pomodoro sessions, countdowns, and a stopwatch.
+- [auen](https://github.com/RazorVel/auen) — an early terminal audio project, exploring media discovery, caching, queues, and playlists.
 
 ## Tools
 
-Some tools used in the log-dashboard project:
-
-`JavaScript` `React` `Node.js` `Express` `MongoDB` `Bash` `Docker`
+`JavaScript` `React` `Node.js` `Express` `MongoDB` `Bash` `Docker`  
+`Python` `Tk` `systemd` `Textual` `mpv` `yt-dlp`
 
 ## What keeps me curious
 
