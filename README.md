@@ -2,16 +2,21 @@
 
 I like exploring software and making small tools.
 
-## Projects
+## Side quests
 
-- [Linux log dashboard](https://github.com/RazorVel/network-dashboard) — configurable log parsing and a dashboard for exploring events.
-- [ChronoCue](https://github.com/RazorVel/ChronoCue) — a Linux desktop companion for reminders, Pomodoro sessions, countdowns, and a stopwatch.
-- [auen](https://github.com/RazorVel/auen) — an early terminal audio project, exploring media discovery, caching, queues, and playlists.
+Some practical, some experimental.
 
-## Tools
+- [Vigilens](https://github.com/RazorVel/vigilens) — making Linux logs easier to explore through configurable parsing, searchable events, and a customizable dashboard.
+- [ChronoCue](https://github.com/RazorVel/ChronoCue) — reminders, Pomodoro sessions, countdowns, and a stopwatch for a Linux desktop.
+- [auen](https://github.com/RazorVel/auen) — terminal audio with search, streaming, queues, named playlists, playback history, and a local cache.
+- [MatteCast](https://github.com/RazorVel/MatteCast) — a GPU-accelerated Linux virtual camera with background blur, removal, and replacement.
 
-`JavaScript` `React` `Node.js` `Express` `MongoDB` `Bash` `Docker`  
-`Python` `Tk` `systemd` `Textual` `mpv` `yt-dlp`
+## Tool bag
+
+**Languages** · `Python` `JavaScript` `C++` `Bash`  
+**Interfaces** · `React` `Textual` `Tk` `PySide6`  
+**Data & services** · `Node.js` `Express` `MongoDB` `Docker / Podman`  
+**Media & models** · `OpenCV` `ONNX Runtime` `mpv` `yt-dlp`
 
 ## What keeps me curious
 
