@@ -1,8 +1,12 @@
-# Hey, welcome to my little corner of GitHub.
+<img src="assets/banner.svg" width="100%" alt="RazorVel — little tools. wandering ideas. a few side quests after dark. A quiet Pokémon shore blends into a moonlit world of crystals." />
+
+## Hey, welcome to my little corner of GitHub.
 
 I like exploring software, making small tools, and finding ways to make everyday computing a little more comfortable.
 
-## Side quests
+<p><img src="assets/divider.svg" width="100%" height="23" alt="" /></p>
+
+## <img src="assets/sprites/poke-ball.png" width="24" height="24" alt="" /> Side quests
 
 A few projects from the journey. Some practical, some experimental.
 
@@ -30,20 +34,33 @@ A few projects from the journey. Some practical, some experimental.
 
 [Wander through the other repositories →](https://github.com/RazorVel?tab=repositories)
 
-## Tool bag
+## <img src="assets/sprites/master-ball.png" width="24" height="24" alt="" /> Tool bag
 
 Some of the tools used across these repositories.
 
-**Languages** · `Python` `JavaScript` `C++` `Bash`  
-**Interfaces** · `React` `Textual` `Tk` `PySide6`  
-**Data & services** · `Node.js` `Express` `MongoDB` `Docker / Podman`  
+**Languages** · `Python` `JavaScript` `C++` `Bash`<br />
+**Interfaces** · `React` `Textual` `Tk` `PySide6`<br />
+**Data & services** · `Node.js` `Express` `MongoDB` `Docker / Podman`<br />
 **Media & models** · `OpenCV` `ONNX Runtime` `mpv` `yt-dlp`
 
+## <img src="assets/sprites/great-ball.png" width="24" height="24" alt="" /> What keeps me curious
 
-## What keeps me curious
+- Small tools that earn a place in everyday routines.
+- Interfaces that feel clear and comfortable.
+- Linux, terminals, and the occasional rabbit hole.
 
-- Small tools that make everyday tasks a little easier.
-- Clear, comfortable interfaces.
-- Linux and terminals.
+## <img src="assets/sprites/premier-ball.png" width="24" height="24" alt="" /> Elsewhere
 
-[More repositories →](https://github.com/RazorVel?tab=repositories)
+For a little more background, or just to say hello:<br />
+[Feliks Hartanto on LinkedIn ↗](https://www.linkedin.com/in/feliks-hartanto/)
+
+<p><img src="assets/sprites/pikachu.png" width="48" height="48" alt="Pixel Pikachu" align="left" /></p>
+
+**Save point**<br />
+Still exploring. Still learning. One small improvement at a time.
+
+<br clear="all" />
+
+<p><img src="assets/divider.svg" width="100%" height="23" alt="" /></p>
+
+<sub>Sprites: <a href="https://github.com/PokeAPI/sprites">PokéAPI</a> · <a href="docs/ASSETS.md">Art credits</a> · <a href="LICENSE">MIT</a></sub>
