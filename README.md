@@ -4,7 +4,7 @@
 
 I like exploring software, making small tools, and finding ways to make everyday computing a little more comfortable.
 
-<p><img src="assets/divider.svg" width="100%" height="23" alt="" /></p>
+<p><img src="assets/divider.svg?v=diamonds" width="100%" height="23" alt="" /></p>
 
 ## <img src="assets/sprites/poke-ball.png" width="24" height="24" alt="" /> Side quests
 
@@ -61,6 +61,6 @@ Still exploring. Still learning. One small improvement at a time.
 
 <br clear="all" />
 
-<p><img src="assets/divider.svg" width="100%" height="23" alt="" /></p>
+<p><img src="assets/divider.svg?v=diamonds" width="100%" height="23" alt="" /></p>
 
 <sub>Sprites: <a href="https://github.com/PokeAPI/sprites">PokéAPI</a> · <a href="docs/ASSETS.md">Art credits</a> · <a href="LICENSE">MIT</a></sub>
