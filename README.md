@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="RazorVel — little tools. wandering ideas. a few side quests after dark. A quiet Pokémon shore blends into a moonlit world of crystals." />
+<!-- <img src="assets/banner.svg" width="100%" alt="RazorVel — little tools. wandering ideas. a few side quests after dark. A quiet Pokémon shore blends into a moonlit world of crystals." /> -->
 
 ## Hey, welcome to my little corner of GitHub.
 
