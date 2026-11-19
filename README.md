@@ -52,7 +52,8 @@ Some of the tools used across these repositories.
 ## <img src="assets/sprites/premier-ball.png" width="24" height="24" alt="" /> Elsewhere
 
 For a little more background, or just to say hello:<br />
-[Feliks Hartanto on LinkedIn ↗](https://www.linkedin.com/in/feliks-hartanto/)
+[My LinkedIn ↗](https://www.linkedin.com/in/feliks-hartanto/)<br />
+[My Website ↗](https://razorvelvet.my.id/)
 
 <p><img src="assets/sprites/pikachu.png" width="48" height="48" alt="Pixel Pikachu" align="left" /></p>
 
